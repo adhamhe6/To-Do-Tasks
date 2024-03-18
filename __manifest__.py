@@ -9,6 +9,10 @@
         'security/ir.model.access.csv',
         'views/views.xml',
         'views/menus.xml',
+        'demo/todo_task_demo.xml',
+    ],
+    'demo':[
+        'demo/todo_task_demo.xml',
     ],
     'demo': [],
     'application': True,

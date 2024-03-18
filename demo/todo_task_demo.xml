@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <record id="demo_todo_task_1" model="todo.task">
+        <field name="name">Complete project proposal</field>
+        <field name="description">Submit project proposal to client for review and approval</field>
+    </record>
+
+    <record id="demo_todo_task_2" model="todo.task">
+        <field name="name">Schedule meeting with team</field>
+        <field name="description">Discuss project timeline with team members and stakeholders</field>
+    </record>
+
+    <record id="demo_todo_task_3" model="todo.task">
+        <field name="name">Review project requirements</field>
+        <field name="description">Analyze client's project needs and gather additional information</field>
+    </record>
+
+    <record id="demo_todo_task_4" model="todo.task">
+        <field name="name">Prepare presentation slides</field>
+        <field name="description">Create slides for presentation and finalize content</field>
+    </record>
+</odoo>
